@@ -1,4 +1,9 @@
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 # Unity & Arduino Serial communicaion
+
+**Update Dec 2022**: I've made a bluetooth version that can be found [here](https://github.com/iqfareez/Unity-Bluetooth-Arduino). It also didn't use the wrmhl library
 
 ## Setup
 
